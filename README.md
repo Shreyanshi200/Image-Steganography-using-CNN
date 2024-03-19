@@ -11,3 +11,9 @@
 <img src ="https://github.com/Shreyanshi200/Image-Steganography-using-CNN/assets/120807907/1a7aa1f2-bb00-4246-96e0-b963a0e31359" width="250" height="250">
 
 
+
+<style>
+  .img {
+    display: inline-block;
+  }
+</style>
