@@ -8,5 +8,6 @@
 <img src="https://github.com/Shreyanshi200/Image-Steganography-using-CNN/assets/120807907/cf5766d3-4f77-4f82-92d1-aa82c815491f" width="20%">&nbsp; &nbsp; &nbsp; &nbsp;
 <img src ="https://github.com/Shreyanshi200/Image-Steganography-using-CNN/assets/120807907/1a7aa1f2-bb00-4246-96e0-b963a0e31359" width="20%">
 </p>
-
-
+<p align="center">
+<img  src="https://github.com/Shreyanshi200/Image-Steganography-using-CNN/blob/main/diffimage.png?raw=true" width="60%">
+</p>
