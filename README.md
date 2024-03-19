@@ -10,5 +10,5 @@
 <h4>c)Cover with Secret Image</h4>
 <h4>d) Revealed Secret Image</h4>
 <p align="center">
-<img  src="https://github.com/Shreyanshi200/Image-Steganography-using-CNN/blob/main/diffimage.png?raw=true" width="60%">
+<img  src="https://github.com/Shreyanshi200/Image-Steganography-using-CNN/blob/main/diffimage.png?raw=true" width="90%">
 </p>
